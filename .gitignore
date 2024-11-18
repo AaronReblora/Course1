@@ -1,0 +1,8 @@
+# Ignore the solution file
+HelloWorldApp.sln
+
+# Other ignore rules
+*.log
+*.tmp
+node_modules/
+.vs/
